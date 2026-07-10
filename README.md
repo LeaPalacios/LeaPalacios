@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**LeaPalacios/LeaPalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DBA Junior & Analista de Datos Técnica
+Especializada en la gestión de Bases de Datos Relacionales y análisis de datos. Enfoque en la optimización de consultas, seguridad de accesos, planes de contingencia en servidores y transformación de datos para la toma de decisiones estratégicas.
 
-Here are some ideas to get you started:
+## 🛠️ Mi Stack Técnico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Motores de Bases de Datos:** SQL Server (T-SQL), MySQL, PostgreSQL, Google BigQuery.
+*   **Gestión y Administración (DBA):** Diseño de estructuras (DDL), manipulación de datos (DML), planes de respaldo, optimización de consultas (Execution Plans) y mitigación de bloqueos de servidores.
+*   **Análisis y Visualización:** Power BI, Power Query, funciones DAX, Excel Avanzado, Looker Studio.
+*   **Desarrollo Frontend:** HTML5, CSS3, JavaScript, Bootstrap.
+*   **Desarrollo Backend:** Fundamentos en PHP Y C#.
+*   **Próximamente / En Formación:** Python aplicado a Data Science 🚀
+
+
+## 📈 Proyectos Destacados
