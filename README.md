@@ -1,7 +1,12 @@
-## Hi there 👋  
+## Hi there 👋  I'm Lea
 
-### DBA Junior & Analista de Datos Técnica
-Especializada en la gestión de Bases de Datos Relacionales y análisis de datos. Enfoque en la optimización de consultas, seguridad de accesos, planes de contingencia en servidores y transformación de datos para la toma de decisiones estratégicas.
+### 📊 DBA Junior | Data Analyst Junior
+
+Apasasionada por el ciclo completo de los datos: desde el diseño y la protección de la integridad de una base de datos, hasta la creación de tableros analíticos para la toma de decisiones. 
+
+Me enfoco en escribir código SQL limpio, estructurado y optimizado, aplicando estándares profesionales incluso en proyectos iniciales.
+
+---
 
 ## 🛠️ Mi Stack Técnico
 
@@ -14,3 +19,6 @@ Especializada en la gestión de Bases de Datos Relacionales y análisis de datos
 
 
 ## 📈 Proyectos Destacados
+
+* **[Concesionario de Vehículos](https://github.com/LeaPalacios/Concesionario-MySQL)** Diseño e implementación de una base de datos transaccional con MariaDB/MySQL. 
+  *  Automatización de stock en tiempo real mediante **Triggers con control de errores (`SIGNAL SQLSTATE`)** y optimización del rendimiento mediante **índices compuestos**, reduciendo lecturas completas de tablas (*Full Table Scan*).
